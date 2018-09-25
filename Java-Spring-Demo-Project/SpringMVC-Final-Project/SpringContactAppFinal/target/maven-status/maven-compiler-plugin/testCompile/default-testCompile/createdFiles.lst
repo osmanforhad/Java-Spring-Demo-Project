@@ -1,0 +1,8 @@
+in\ezeon\capp\test\TestUserDAOFindByProp.class
+in\ezeon\capp\test\TestUserServiceRegister.class
+in\ezeon\capp\test\TestDataSource.class
+in\ezeon\capp\test\TestUserDAOSave.class
+in\ezeon\capp\test\TestUserDAOFindSingleRecord.class
+in\ezeon\capp\test\TestUserDAOFindAll.class
+in\ezeon\capp\test\TestUserDAOUpdate.class
+in\ezeon\capp\test\TestUserDAODelete.class
